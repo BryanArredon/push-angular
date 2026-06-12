@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.scss'
 })
 export class App {
-  protected readonly title = signal('I am Bryan Emilio Arredondo López');
+  protected readonly title = signal('I am Bryan Emilio Arredondo López GIDS6093 | 12233112');
 }
